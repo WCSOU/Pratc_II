@@ -7,3 +7,4 @@ Atualizações do git usando o VS Code para Atualizar os arquivos locais
 teste 
 
 asd
+public final pi = 3.1415
