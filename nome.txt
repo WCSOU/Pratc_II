@@ -1,3 +1,9 @@
 Tivemos uma aula de pratica profissional aprendetendo comandos do CMD
 
 Autor -->WCSOU
+
+Atualizações do git usando o VS Code para Atualizar os arquivos locais
+
+teste 
+
+asd
