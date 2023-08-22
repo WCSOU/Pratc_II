@@ -17,3 +17,9 @@ public final pi = 3.1415
 
 
 
+<<<<<<< HEAD
+=======
+
+asd
+sobreposição
+>>>>>>> bf8dac11aafe6241c14ce28aaf96a81781a1f576
