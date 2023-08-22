@@ -7,9 +7,13 @@ Atualizações do git usando o VS Code para Atualizar os arquivos locais
 teste 
 
 asd
+
+
+
+
+
 public final pi = 3.1415
-<<<<<<< HEAD
-Sobrepor
-=======
-sobreposição
->>>>>>> fedf5b4393f31e37d33c9af04de95b4dd2420810
+
+
+
+
